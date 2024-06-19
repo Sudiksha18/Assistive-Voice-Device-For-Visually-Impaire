@@ -4,5 +4,4 @@ YOLO v3 Object Detection with Voice Feedback using gTTS
 
 Download the yolov3 weights from
 https://pjreddie.com/media/files/yolov3.weights
-Download FFMPEG from https://www.gyan.dev/ffmpeg/builds/
-Download ffmpeg-git-full.7z
+Download FFMPEG from https://www.gyan.dev/ffmpeg/builds/   and  download ffmpeg-git-full.7z
